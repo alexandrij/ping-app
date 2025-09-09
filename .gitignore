@@ -36,4 +36,5 @@ Thumbs.db
 
 # Project Files
 /dist/
+/dev-dist/
 /.env.local
